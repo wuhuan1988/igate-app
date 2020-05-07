@@ -1,0 +1,4 @@
+owner: wuhuan1988
+repo: igate-app
+provider: github
+updaterCacheDirName: electron-demo-updater

@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: electron-demo-setup-1.0.0.exe
+    sha512: GK2ndz73TajMUphhBpxxIRiI0qXaUW8tGyelpEmenzbJIHbyNCb8AzO0biXkQDXWSBoGtgJ7ZqP7/4RZJz1+fg==
+    size: 101028665
+path: electron-demo-setup-1.0.0.exe
+sha512: GK2ndz73TajMUphhBpxxIRiI0qXaUW8tGyelpEmenzbJIHbyNCb8AzO0biXkQDXWSBoGtgJ7ZqP7/4RZJz1+fg==
+releaseDate: '2020-05-07T09:11:17.980Z'
