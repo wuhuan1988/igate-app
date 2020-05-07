@@ -1,0 +1,22 @@
+directories:
+  output: dist
+  buildResources: build
+appId: IGate
+productName: 智能闸口
+asar: true
+dmg:
+  contents:
+    - x: 410
+      'y': 150
+      type: link
+      path: /Applications
+    - x: 130
+      'y': 150
+      type: file
+win:
+  icon: favicon.ico
+  target:
+    - target: nsis
+      arch:
+        - ia32
+electronVersion: 8.2.5
