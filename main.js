@@ -22,8 +22,8 @@ function createWindow() {
   win.maximize()
 
   // 加载index.html文件
-  // win.loadFile(`${__dirname}/prj/index.html`)
-  win.loadURL("http://192.168.1.113:8080/")
+  win.loadFile(`${__dirname}/prj/index.html`)
+  // win.loadURL("http://192.168.1.113:8080/")
   // win.loadURL("https://wx.fylogistics.cn/logisticsOms/toLogin.do")
 
   win.once('ready-to-show', () => {
